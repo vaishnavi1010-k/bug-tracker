@@ -1,5 +1,5 @@
-import tkinter as tk
-from tkinter import ttk, messagebox
+import flask as Flask
+from flask import Flask, messagebox
 
 
 BG = "#d9f3f7"
